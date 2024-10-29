@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Hi everyone, I'm Lina NZOUECHIM
-<img align="right" alt="GIF" src="https://github.com/MozkaGit/MozkaGit/blob/main/images/code.gif" width="53%" />
+<img align="right" alt="GIF" src="https://drive.google.com/file/d/1fMNf3JDc8ZNiL7hLUGdVZ9aUbQmHnROd/view?usp=sharing" width="53%" />
 <p>
 Nice to meet you. Let me introduce myself in a few lines.
   <ul>
