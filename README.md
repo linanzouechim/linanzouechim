@@ -1,5 +1,5 @@
 # Hi everyone, I'm Lina NZOUECHIM
-<img align="right" alt="GIF" src="https://github.com/linanzouechim/linanzouechim/images/code.gif" width="53%" />
+<img align="right" alt="GIF" src="https://github.com/linanzouechim/linanzouechim/images/code.png" width="53%" />
 <p>
 Nice to meet you. Let me introduce myself in a few lines.
   <ul>
