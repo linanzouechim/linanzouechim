@@ -108,6 +108,47 @@ Cours : Réseaux, Sécurité des applications, Serveurs locaux/Internet, Automat
 - Terraform Associate (003)
 
 ---
+---
+
+# 🧩 TryHackMe — Cybersécurité & SOC Training
+
+Je suis active sur TryHackMe pour développer mes compétences pratiques en cybersécurité, en particulier dans :
+
+- la détection d’intrusions  
+- l’analyse de logs  
+- la réponse aux incidents  
+- les techniques offensives (pentesting)  
+- les environnements SOC simulés  
+
+🔗 **Profil TryHackMe :** https://tryhackme.com/p/linaNZOUECHIM
+
+---
+
+## 🛡️ Badges & Parcours en progression
+
+### 🎯 Parcours principaux
+- **SOC Level 1**  
+- **Cyber Defense**  
+- **Jr Penetration Tester**  
+- **Introduction to Cybersecurity**  
+- **Linux Fundamentals**  
+- **Windows Fundamentals**  
+
+---
+
+## 📊 Progression TryHackMe (mise à jour manuellement)
+
+| Parcours | Progression | Compétences développées |
+|---------|-------------|--------------------------|
+| SOC Level 1 | 🔄 En cours | SIEM, logs, alertes, MITRE ATT&CK |
+| Cyber Defense | 🔄 En cours | Analyse de menaces, détection, défense |
+| Jr Penetration Tester | 🔄 En cours | Reconnaissance, exploitation, post-exploitation |
+| Linux Fundamentals | ✔️ Terminé / En progression | Commandes, permissions, services |
+| Windows Fundamentals | ✔️ Terminé / En progression | Event Viewer, services, AD |
+| Introduction to Cybersecurity | ✔️ Terminé / En progression | Concepts clés, attaques, défenses |
+
+---
+
 
 # 🤝 Expérience professionnelle
 
