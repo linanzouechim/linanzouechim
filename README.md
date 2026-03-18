@@ -155,11 +155,9 @@ Je suis active sur TryHackMe pour développer mes compétences pratiques en cybe
 ### Technicienne en informatique – Novitek International (2025)
 Support technique, serveurs Windows/Linux, virtualisation, AD, SCCM, sauvegardes, VPN, GPO.
 
-### Technicienne en informatique – CETIC de Londji (2019–2023)
-Installation, dépannage, maintenance, formation utilisateurs.
 
 ### Formatrice en informatique – Lycée technique de Lolodorf (2016–2019)
-Cours, ateliers, travaux pratiques, accompagnement pédagogique.
+Accompagnement pédagogique, installation, dépannage, maintenance, formation utilisateurs.
 
 ---
 
